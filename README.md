@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ka1osk/ka1osk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
