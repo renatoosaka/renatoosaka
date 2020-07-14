@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm Renato Osaka! <img src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/source.gif" width="50"></h2>
+<h2> Hi, I'm Renato Osaka! <img src="https://media.giphy.com/media/YPUh8SkoYuurwwV4bz/source.gif" width="25"></h2>
 <img align='right' src="https://media.giphy.com/media/U3rYyVWOhXp64Yxr3r/source.gif" width="230">
 <p><em>Software Developer at <a href="http://www.reges.com.br/">Gonzaga Higher Education Network</a>
 </em></p>
