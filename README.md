@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Twitter: renato_osaka](https://img.shields.io/twitter/follow/renato_osaka?style=social)](https://twitter.com/renato_osaka)
 [![Linkedin: renato-hideki-osaka](https://img.shields.io/badge/-renatohidekiosaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-hideki-osaka/)](https://www.linkedin.com/in/renato-hideki-osaka/)
-[![GitHub ka1osk](https://img.shields.io/github/followers/ka1osk?label=follow&style=social)](https://github.com/ka1osk)
+[![GitHub renatoosaka](https://img.shields.io/github/followers/renatoosaka?label=follow&style=social)](https://github.com/renatoosaka)
 
 
 ### A little more about me...  
