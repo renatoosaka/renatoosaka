@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renato Hideki Osaka</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 💬 Ask me about **reactjs, react-native, nodejs**
-
-- 📫 How to reach me **http://renatohidekiosaka.com.br**
+- 💬 Ask me about **reactjs, react-native, nodejs, golang**
 
 
 <img src="https://komarev.com/ghpvc/?username=renatoosaka&label=Profile%20views&color=0e75b6&style=flat" alt="renatoosaka" /> 
